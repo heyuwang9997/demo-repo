@@ -4,3 +4,4 @@ Hello, this is a demo-repo.
 Learn how to use git
 ## Changes
 LeahIDEXX made some changes to the Readme file.
+Made some changes
