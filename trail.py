@@ -1,2 +1,3 @@
 #hi this is a python file
-print "hello" 
+print("hello")
+ 
